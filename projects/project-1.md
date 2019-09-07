@@ -12,7 +12,7 @@ labels:
 summary: Worked on the programming team on Maui High School robotics, competed in the 2017 FRC Hawaii Regional and 2017 FRC Venture Regional
 ---
 
-<img class="ui medium right floated rounded image" src="/images/roboticsproject.jpg">
+<img class="ui medium right floated rounded image" src="/images/FirstSteamworksField.jpg">
 
 The FIRST Robotics Competition (FRC) is an annual international high school robotics competition. Each year, the competition's game is different, and teams have six weeks to design, build, and progam a robot to compete in that year's game. In 2017, the game required robots to pick up balls from the ground and shoot them into an elevated goalpost. Robots also had to pick up gears and hang them onto posts which were distributed throughout the game field. The game started with an autonomous phase, where robots acted without human control and point-scoring actions rewarded extra points. After the autonomous phase, the match entered the driver-controlled phase, where the team's drivers would control the robot manually.
 
