@@ -13,12 +13,13 @@ labels:
 summary: A bot-busting security plugin developed for a Minecraft server
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/2019-09-06_23.40.51.png">
+<img class="ui medium right floated rounded image" src="../images/playerfilter.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Developed for a Minecraft server to prevent bot accounts connecting en masse to crash the server. Rather than connecting directly to the Minecraft server, players connect to a proxy (which there are a number of, not all players will connect to the same proxy). When a player attempts to join, entries associated with their account and IP address in the SQL database are checked, and they may be flagged as malicious using a number of factors. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+If a connection passes the check, they will connect to the proxy, which then directs them to a captcha puzzle. If they solve the captcha puzzle, this will be recorded to the database, and they will not have to solve a captcha again. The proxy then directs them to the Minecraft server. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+If a connection fails the check, they will either be disconnected or they will be "shadow banned", when the proxy will direct them to a fake Minecraft server insulated from the real Minecraft server.
+
+In this project, I gained experience with the Java programming language and SQL. I also learned a lot about the concept of load balancing to connect players to different proxies when they attempt to join.
