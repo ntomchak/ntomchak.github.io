@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/roboticsproject.jpg
 title: FIRST Robotics Competition
-permalink: projects/micromouse
+permalink: projects/frc
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-01
 labels:
