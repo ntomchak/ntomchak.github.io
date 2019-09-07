@@ -11,7 +11,7 @@ labels:
   - Java
   - SQL
   - Networking
-summary: A Minecraft server I created and managed.
+summary: A Minecraft server I created and manage.
 ---
 
 The TMC Minecraft server is a open-world survival Minecraft server that I created and manage. There are actually about a dozen servers running across 3 machines that make up TMC, including the main Minecraft server, a captcha server, eight or so proxies, and a few "decoy" Minecraft servers for shadowbanned bot accounts. The network typically peaks at 30-40 concurrent real players on the weekends, and during peak months there have been as many as 70 concurrent players.
