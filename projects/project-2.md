@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/playerfilter.jpg
+title: Bungee Player Filter
+permalink: projects/bplayerfilter
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-05-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - MySQL
+  - Security
+summary: A bot-busting security plugin developed for a Minecraft server
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
