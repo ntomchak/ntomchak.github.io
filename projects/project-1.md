@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/roboticsproject.jpg
-title: FIRST Robotics Competition 2017
+title: FIRST Robotics Competition
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-01
