@@ -5,40 +5,18 @@ image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-04-01
 labels:
   - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: Worked on the programming team on Maui High School robotics, competed in the 2017 FRC Hawaii Regional and 2017 FRC Venture Regional
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The FIRST Robotics Competition (FRC) is an annual international high school robotics competition. Each year, the competition's game is different, and teams have six weeks to design, build, and progam a robot to compete in that year's game. In 2017, the game required robots to pick up balls from the ground and shoot them into an elevated goalpost. Robots also had to pick up gears and hang them onto posts which were distributed throughout the game field. The game started with an autonomous phase, where robots acted without human control and point-scoring actions rewarded extra points. After the autonomous phase, the match entered the driver-controlled phase, where the team's drivers would control the robot manually.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For 2017's competition, I was part of the programming team. My responsibilities were to train my junior partner in the Java programming language and robotics, and, along with my partner, to program the autonomous phase of the robot. We used vision processing so that the robot would "know" how far it had moved along the standardized game field, and to precisely rotate the robot toward the goal or gear post. Using vision processing, the robot was consistently able to score points with accuracy during the autonomous phase. We also used vision processing to assist with aiming during driver-controlled phase, so that the drivers would be able to manually drive near the goal and push a button to automatically aim toward the target.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Maui High Robotics website](http://mauihs.k12.hi.us/robotics/).
 
 
 
