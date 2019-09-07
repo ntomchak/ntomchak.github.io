@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nathaniel Tomchak",
     "label": "Student",
-    "picture": "https://ntomchak.github.io/template/images/profile.jpg",
+    "picture": "https://ntomchak.github.io/images/profile.jpg",
     "email": "ntomchak@hawaii.edu",
     "phone": "",
     "website": "https://ntomchak.github.io",
@@ -77,19 +77,17 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2017-08",
+      "endDate": "2021-08",
       "gpa": "",
       "courses": [
       ]
