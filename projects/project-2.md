@@ -22,4 +22,6 @@ If a connection passes the check, they will connect to the proxy, which then dir
 
 If a connection fails the check, they will either be disconnected or they will be "shadow banned", when the proxy will direct them to a fake Minecraft server insulated from the real Minecraft server.
 
+The plugin successfully stopped the bot problem the server was experiencing.
+
 In this project, I gained experience with the Java programming language and SQL. I also learned a lot about the concept of load balancing to connect players to different proxies when they attempt to join.
