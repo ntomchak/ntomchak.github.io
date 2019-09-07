@@ -22,32 +22,34 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "ntomchak",
         "url": "https://www.linkedin.com/in/nathaniel-t-9b8307186/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "data analysis",
+        "MySQL"
       ]
     },
     {
-      "name": "data mining",
+      "name": "sentiment analysis",
       "keywords": [
+        "data mining",
+        "opinion mining"
       ]
     },
     {
