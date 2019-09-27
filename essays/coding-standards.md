@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+title: Coding Standards are Important
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-26
+labels:
+  - Software Engineering
+  - ICS 314
+---
+
+  At this early stage in the class, learning Javascript has been fun. I have worked with Javascript a little bit in the past on simple scripts on Google Drive, but these were too simple to learn much, and Google’s Apps Script doesn’t use ES6. The only programming language I have worked with extensively at this time is Java. While Javascript and Java may seem similar on the surface because of their names and somewhat similar syntax, it is already clear that these languages are very different in many ways, most notably in how objects work.
+
+  It is very important for software engineers to learn Javascript, since it is completely necessary for front end development. While not everyone who enters a computer science career will be a front end developer, it is probably still important to be capable of this in certain situations. Furthermore, employers view this versatility positively because backend developers should understand the needs of their frontend colleagues and be able to quickly make small changes if necessary.
+
+  In my opinion, athletic software engineering is a good way to learn. Writing code under pressure, similar to whiteboard problems in an interview, was a good way to get the mind working toward a solution. I actually hope that these WODs will not get less stressful over the course of the semester, since the fear of failure likely improves performance. The practice WODs were useful, both because they gave a good idea for the mentality during the WOD and because they improved our Javascript skills.
+
