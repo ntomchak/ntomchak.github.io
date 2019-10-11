@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Frameworks Are Pretty Cool
+title: UI Frameworks Are Pretty Cool
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
