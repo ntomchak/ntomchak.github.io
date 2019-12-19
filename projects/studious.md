@@ -10,7 +10,7 @@ labels:
   - React
   - Meteor
   - Semantic UI
-summary: Worked on the programming team on Maui High School robotics, competed in the 2017 FRC Hawaii Regional and 2017 FRC Venture Regional
+summary: Created a site for UH Manoa students to browse and share study spots on campus.
 ---
 
 <img class="ui medium floated rounded image" src="/images/sm-landing.png">
