@@ -13,6 +13,8 @@ labels:
 summary: Worked on the programming team on Maui High School robotics, competed in the 2017 FRC Hawaii Regional and 2017 FRC Venture Regional
 ---
 
+<img class="ui medium floated rounded image" src="/images/sm-landing.png">
+
 Studious Manoa was created as a final team project for the ICS 314 course at the University of Hawaii at Manoa. It is a Meteor web application that allows students to browse, post, and rate study spots on campus at UH Manoa. The goal of the project was to allow students to find and share underutilized alternatives to the overcrowded study spots on campus.
 
 My contributions to the project were primarily much of the database structure for the study locations and reviews, connecting the database to the pages where users can view locations and add reviews, as well as the maps which use the Leaflet API.
