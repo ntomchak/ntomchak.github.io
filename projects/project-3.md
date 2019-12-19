@@ -24,6 +24,6 @@ Another plugin I made for the server is called Player Warps. With this unique sy
 
 The plugin I am most proud of, which secures the server against spam bot accounts, is listed as "Bungee Player Filter" in my projects.
 
-The server makes money by selling ranks that provide some in-game features and cosmetics. You can find the webstore [here](http://toomanyco.ws/vip).
+The server makes money by selling ranks that provide some in-game features and cosmetics. You can find the webstore [here](http://store.toomanyco.ws/).
 
 In addition to maintaining the technical side of the server, I also select and manage the team of volunteer staff who moderate the chat and keep troublemakers in check.
