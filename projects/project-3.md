@@ -26,4 +26,4 @@ The plugin I am most proud of, which secures the server against spam bot account
 
 The server makes money by selling ranks that provide some in-game features and cosmetics. You can find the webstore [here](http://toomanyco.ws/vip).
 
-In addition to maintaining the technical side of the server, I also select and manage the team of volunteer staff who moderate the chat and keep troublemakers in check. The staff are selected from applicants who submit their applications through Discord.
+In addition to maintaining the technical side of the server, I also select and manage the team of volunteer staff who moderate the chat and keep troublemakers in check.
