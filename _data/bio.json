@@ -28,25 +28,7 @@
     ]
   },
   "interests": [
-    {
-      "name": "Data science",
-      "keywords": [
-        "data analysis",
-        "MySQL"
-      ]
-    },
-    {
-      "name": "Sentiment analysis",
-      "keywords": [
-        "data mining",
-        "opinion mining"
-      ]
-    },
-    {
-      "name": "Artificial intelligence",
-      "keywords": [
-      ]
-    }
+    {}
   ],
   "skills": [
     {
