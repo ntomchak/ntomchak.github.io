@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Nathaniel Tomchak",
+    "label": "Student",
+    "picture": "https://github.com/ntomchak.png",
+    "email": "ntomchak@hawaii.edu",
+    "phone": "",
+    "website": "https://ntomchak.github.io",
+    "summary": "",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ntomchak", "url": "http://github.com/ntomchak" },
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/nathaniel-t-9b8307186/" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Engineering" },
+    { "name": "Data Science" },
+    { "name": "Machine Learning" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "R", "Javascript", "C", "SQL", "Spark" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "AWS", "Databricks", "Hugging Face", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "SMX",
+      "position": "Data/Software Engineering Intern",
+      "website": "",
+      "startDate": "2023-06-04",
+      "endDate": "2023-08-04",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "UH ICS Department",
+      "position": "Learning Assistant",
+      "website": "",
+      "startDate": "2020-01-10",
+      "endDate": "2020-05-15",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "awards": [
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
