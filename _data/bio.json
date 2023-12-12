@@ -7,10 +7,10 @@
     "phone": "",
     "website": "https://ntomchak.github.io",
     "summary": "",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/ntomchak" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/nathaniel-t-9b8307186/" }
+      { "network": "github", "username": "ntomchak", "url": "http://github.com/ntomchak" },
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/nathaniel-t-9b8307186/" }
     ]
   },
   "interests": [
